@@ -81,7 +81,7 @@
                 <div class="title m-b-md">
                     Roberto Reyes
                 </div>
-<!--cambios desde pc de escritorio cambio hecho de nuevo-->
+<!--cambios desde pc de escritorio cambio hecho de nuevo otra vez, :))))))-->
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
                     <a href="https://laracasts.com">Laracasts</a>
